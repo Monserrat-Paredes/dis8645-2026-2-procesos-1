@@ -381,4 +381,147 @@ Y esto igual empieza a conectar todo lo anterior:
 
 ## encargos
 
+## Aristóteles y sus categorías
+
+Para esta tarea elegí **mi cepillo de pelo**, porque es un objeto que uso todos los días y siento que sirve para entender las categorías de Aristóteles de una forma mucho más simple.
+
+Aristóteles propone distintas categorías que permiten describir una cosa desde varios aspectos. No solamente importa decir **qué es**, sino también cómo es, cuánto mide, dónde está, qué hace o qué le puede pasar.
+
+### Objeto: mi cepillo de pelo
+
+#### 1. Sustancia — ¿qué es?
+
+Es un **cepillo de pelo**.
+
+Esta sería como la descripción principal del objeto. Antes de decir su color, tamaño o dónde está, primero necesito saber qué cosa estoy describiendo.
+
+#### 2. Cantidad — ¿cuánto?
+
+Tengo **un cepillo**.
+
+También puedo describir cosas que se pueden medir o contar, por ejemplo:
+
+- Tiene un mango.
+- Tiene una cabeza.
+- Tiene muchas cerdas.
+- Mide cierta cantidad de centímetros de largo.
+
+Entonces esta categoría tiene que ver con **cuánto hay, cuántas partes tiene o cuánto mide algo**.
+
+#### 3. Cualidad — ¿cómo es?
+
+Mi cepillo es:
+
+- De color lila.
+- De plástico.
+- Liviano.
+- Tiene una forma alargada.
+- La cabeza es ancha y con los bordes redondeados.
+- Tiene muchas cerdas delgadas y flexibles.
+- Las cerdas tienen pequeñas puntitas redondeadas.
+
+Acá describo las **características que tiene el objeto**, o sea, cómo es físicamente.
+
+#### 4. Relación — ¿con respecto a qué?
+
+Mi cepillo se relaciona principalmente conmigo y con mi pelo.
+
+Por ejemplo:
+
+- Es **mi** cepillo.
+- Lo uso en mi pelo.
+- Es más pequeño que un secador de pelo.
+- Lo puedo usar junto con otros productos para el pelo.
+
+Esta categoría me costó un poco más al principio, pero básicamente se trata de describir una cosa **en relación con otra**.
+
+#### 5. Lugar — ¿dónde está?
+
+Depende del momento.
+
+Puede estar:
+
+- En mi pieza.
+- En el baño.
+- Sobre mi cama.
+- Dentro de mi cartera.
+- En mi mano cuando lo estoy usando.
+
+El objeto sigue siendo el mismo, pero podemos describir **dónde se encuentra en un momento determinado**.
+
+#### 6. Tiempo — ¿cuándo?
+
+Uso mi cepillo en distintos momentos del día.
+
+Por ejemplo:
+
+- En la mañana antes de salir.
+- Después de lavarme el pelo.
+- Antes de ir a trabajar o a la universidad.
+- Cuando llego a mi casa y tengo el pelo medio enredado.
+
+Esta categoría permite ubicar el objeto o una acción **en un momento determinado**.
+
+#### 7. Posición — ¿cómo está colocado?
+
+El cepillo puede estar:
+
+- Acostado sobre una mesa o la cama.
+- Parado.
+- Dentro de un cajón.
+- En mi mano de forma vertical mientras me peino.
+
+Aunque cambie de posición, sigue siendo exactamente el mismo cepillo.
+
+#### 8. Estado o posesión — ¿qué tiene?
+
+Mi cepillo puede tener:
+
+- Pelos atrapados entre las cerdas.
+- Agua si lo acabo de lavar.
+- Productos del pelo entre las cerdas.
+- Algunas cerdas un poco dobladas por el uso.
+
+Esta categoría habla de cosas que el objeto **tiene o lleva consigo en cierto momento**.
+
+#### 9. Acción — ¿qué hace?
+
+Mi cepillo sirve para:
+
+- Desenredar el pelo.
+- Ordenarlo.
+- Separar mechones.
+- Ayudarme a peinarlo.
+
+Cuando lo paso por mi pelo, las cerdas van separando los mechones y ayudando a soltar los nudos.
+
+Acá estamos pensando en **lo que el objeto hace o para qué actúa**.
+
+#### 10. Pasión — ¿qué le ocurre?
+
+Esta categoría es al revés de la anterior. En vez de pensar qué hace el cepillo, pienso en **qué cosas le pueden pasar**.
+
+Por ejemplo:
+
+- Se le doblan las cerdas.
+- Se ensucia.
+- Se moja.
+- Se cae al suelo.
+- Se puede rayar.
+- Se puede romper alguna cerda.
+- Se llena de pelos después de usarlo.
+
+Entonces lo entendí así:
+
+**acción** → lo que hace el cepillo.  
+**pasión** → lo que le ocurre al cepillo.
+
+Al final, usar las categorías de Aristóteles me ayudó a darme cuenta de que incluso un objeto tan simple como un cepillo se puede describir desde muchas partes distintas. No solamente por **qué es**, sino también por cómo es, cuánto tiene, dónde está, con qué se relaciona, qué hace y qué cosas le pueden pasar.
+
 ## lectura
+
+En estas páginas entendí más que nada que las máquinas de dibujo empezaron a cambiar mucho la forma de trabajar con geometría. Antes hacer curvas o formas complejas requería bastante conocimiento y tiempo, pero estas herramientas comenzaron a tener ese conocimiento casi incorporado en su funcionamiento. Me llamó la atención que así el dibujo se vuelve menos dependiente de la mano y la intuición de la persona, porque la máquina podía repetir formas muy complejas de manera mucho más precisa. Siento que acá ya empieza a aparecer una idea muy parecida a lo que pasa hoy con herramientas digitales, donde no siempre necesitamos entender todo lo que ocurre detrás para poder usarlas.
+
+“Mechanization made absurdly complex drawings a quotidian affair.”- pág.45
+
+“The most exact sensitivities of the architectural eye were satisfied through calculation rather than intuition.”- pág.45
