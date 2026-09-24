@@ -92,11 +92,39 @@ El método siempre tendran flechas que van a los atributos (datos)
 
 ## encargos
 
-- elegir un objeto
-- buscar Categorías de  Aristóteles
-- categorías sobre la interpretación (8 o 10)
+viernes 25-09: 
+
+- seleccionar un objeto y clasificarlo según las categorías del ser de aristóteles 
+
+
+martes 29-09:
+
+- bajar una red social e investigar que piensa esa red de mi, cuál es mi algoritmo
+(listar 10 categorías que deciden qué y quién eres)
+
 - algoritmo de instagram, pedirlo para saber quien soy segun la empresa en atributos (para vendernos cosas)
+ 
+- categorías sobre la interpretación (10)
 
 
+Links vistos en clases:
+
+<https://www.tinkercad.com/>
+
+<https://wokwi.com/>
+
+<https://wokwi.com/projects/298013072042230285>
 
 ## lectura
+
+Libro: A New Program for Graphic Design
+
+Autor: David Reinfurt
+
+El libro está dividido en 3 grandes capítulos.
+
+I. T--Y-P-O-G-R-A-P-H-Y
+
+II. G-E-S-T-A-L-T
+
+III. I-N-T-E-R-F-A-C-E
