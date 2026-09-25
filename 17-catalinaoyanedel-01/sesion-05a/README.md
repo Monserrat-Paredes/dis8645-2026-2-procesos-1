@@ -128,7 +128,16 @@ a partir de las definiciones que leí anteriormente, elegí como mi objeto mi te
 - lugar: en mi escritorio
 - tiempo: ahora mismo / jueves 24 de sept. 11:45pm
 - posición: vertical
+- posesión: líquido
 - acción: mantener un líquido caliente o frío el mayor tiempo posible
 - pasión: ser llenado y transportado
+
+## corrección encargo
+- lugar: en la mesa en la que me encuentre
+- un litro es un decimetro cúbico
+- lamentablemente mi termo es inerte así que puede que esas no sean sus pasiones...
+- la pasión puede entenderse como las alteraciones que sufre una sustancia
+- know-how: lo práctico 
+- know-what: lo que se aprende en la universidad, lo teórico
 
 ## lectura
