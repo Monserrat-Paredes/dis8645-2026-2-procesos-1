@@ -2,6 +2,13 @@
 
 ## apuntes sesión
 
+Ejemplo: 
+
+clase: poodle 
+
+instancia: copito 
+
+(esta clase me recordó mucho a mi poodle copito gruñon que estuvo conmigo desde los 9 años <3)
 
 ```cpp
 class Perrite
