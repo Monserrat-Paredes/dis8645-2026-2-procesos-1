@@ -77,6 +77,25 @@ captura de pantalla de wokwi
 
 ![captura de pantalla de ejercicio de clases](./imagenes/captura-de-pantalla-wokwi.png)
 
+### ejemplo en clases de mini clase
+
+
+```c++
+class Termo {
+  public:
+    bool existencia; 
+    int posicion;
+    int cantidadML;
+    float temperarura;
+
+    void abrir();
+    void cerrar();
+
+};
+```
+
+investigar que es constructor en c++
+
 ## encargos
 
 ## lectura
