@@ -25,6 +25,5 @@ es la misma lógica que vimos en clase con los atributos y métodos, pero llevad
 
 ![imagenes](./imagenes/juguete.jpg)
 
-su función no está en lo que *es* (sustancia, cantidad), sino casi toda en lo que *hace* y lo que le hago, la acción de doblarlo es lo que realmente cumple su propósito. no basta con describir sus atributos, hay que fijarse en el método (la acción) para entender para qué sirve.
 
 ## lectura
