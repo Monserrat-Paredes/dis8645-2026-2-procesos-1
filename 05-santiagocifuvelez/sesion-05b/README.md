@@ -1,7 +1,3 @@
 # sesion-05b
 
-## apuntes sesión
-
-## encargos
-
-## lectura
+Retroalimentación proyecto 1
