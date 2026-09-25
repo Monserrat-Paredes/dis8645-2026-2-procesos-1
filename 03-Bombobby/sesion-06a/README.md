@@ -85,7 +85,7 @@ Métodos
 - Lugar: En el departamento que arrienda bombobby
 - Tiempo: Ahora
 - Posición: Usualmente acostada con la guata mirando hacia arriba
-- Estado: Cubierta con un gran pelaje y grasa
+- Posesión: Cubierta con un gran pelaje y grasa
 - Acción: Dormir, comer, correr, maullar, morder, patear, saltar, pedir
 - Pasión: ser acariciada, perseguida, alimentada, atacada.
 
