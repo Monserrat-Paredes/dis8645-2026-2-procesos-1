@@ -88,7 +88,9 @@ bool existencia;
 // con parametro
 // para cuantosML
 
-Termo(int cuantosML)
+Termo(int cuantosML){
+  cantidadML = cuantosML;
+}
 
 Termo elDeCatalina (800);
 Termo elDeMatias (500);
