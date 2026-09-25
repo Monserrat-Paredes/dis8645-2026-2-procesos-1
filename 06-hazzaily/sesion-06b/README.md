@@ -75,6 +75,52 @@ int main() {
 }
 ```
 
+## Class
+
+Es una variable más compleja de tipo clase.
+
+Colección de enteros y variables.
+
+Son moldes y sus resultados son objetos.
+
+El desde es escribir el constructor, que es el mismo nombre de la clase.
+
+**Cómo crear una clase:**
+
+```c
+class Termo {
+  public:
+   bool existencia;
+   int posicion = 0;
+   int cantidadML;
+   float temperatura;
+
+   void abrir();
+   void cerrar();
+
+  // constructor (Bob)
+  Termo(int cuantosML){
+
+     cantidadML = cuantosML
+
+  }
+
+ };
+```
+
+**Definición en el "int Main":**
+
+```c
+ Termo elDeCatalina;
+ Termo elDeMatias;
+
+ elDeCatalina(800);
+ elDeMatias(500);
+
+ elDeCatalina.existencia = true;
+ elDeMatias.existencia = true;
+```
+
 ## encargos
 
 ## lectura
