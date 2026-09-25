@@ -20,6 +20,9 @@ Que tiene
 int temperatura
 bool existencia
 float temperatura
+
+Constructor:
+Es una función que vive dentro de una clase, se hace automáticamente. No dice ni void ni nada, solo es constructor y es el método más importante dentro de una función. No tiene un return por eso no necesita void.
 ## encargos
 Escoger un objeto y clasificarlo según las categorías del ser de Aristotéles:
 
