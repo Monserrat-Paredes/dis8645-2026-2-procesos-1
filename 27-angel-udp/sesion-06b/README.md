@@ -1,5 +1,7 @@
 # sesion-06b
 
+viernes 25-09:
+
 ## apuntes sesión
 
 ## encargos
