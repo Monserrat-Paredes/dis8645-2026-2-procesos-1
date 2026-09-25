@@ -47,5 +47,11 @@ Buscar las categorias de aristoteles y analizar a partir de las categorias de ar
 
 ## encargos
 
+el encargo de este día fue así que lo haré en la sesión-06b
+
+próximos encargos
+
+viernes 25-09:
+seleccionar un objeto y clasificarlo según las categorías del ser de aristóteles 
 
 ## lectura
