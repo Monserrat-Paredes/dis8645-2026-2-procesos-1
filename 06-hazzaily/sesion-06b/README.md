@@ -19,7 +19,7 @@ Estudiante Catalina Oyanedel
 
 ## Ejemplo Wokwi
 
-```
+```c
  // tenemos que copiar y pegar este archivo
  // ojo que está entre "<>"
  // esto significa que este archivo está en un lugar lejano
