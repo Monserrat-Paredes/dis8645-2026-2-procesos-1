@@ -2,6 +2,31 @@
 
 ## apuntes sesión
 
+
+```cpp
+class Perrite
+
+// atributos
+bool hambre = true;
+bool durmiendo = true;
+pelaje = #000000;
+
+// metodos
+ladrar ();
+comer ();
+jugar();
+portarseMal ();
+ladrar (int volumen, int frecuencia);
+```
+
+```cpp
+class Poodle {
+superclass Perrite ();
+
+bool molestando = true;
+}
+```
+
 ## encargos
 
 próximos encargos: 
