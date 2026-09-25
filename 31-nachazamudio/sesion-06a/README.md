@@ -80,4 +80,15 @@ Micropython PROHIBIDO.
 
 ## encargos
 
+plan z hagamos un asado, sketch de comedia 1 min (2001).
+
+elegir cualquier objeto. 
+
+buscar categorías de Aristóteles, categorías del ser.
+
+analizar el objeto según estas categorías. 
+
+CITAR FUENTES.
+
+
 ## lectura
