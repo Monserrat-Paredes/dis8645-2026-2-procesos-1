@@ -59,16 +59,16 @@ anotar 3 atributos y 3 métodos de ti (de mi(? hola)
 
 seleccionar un objeto y clasificarlo según las categorías del ser de Aristóteles:
 
-1. sustancia: algo interno y propio del ser
-2. cantidad: discreta o continua
-3. cualidad: hábito, disposición, habilidad, incapacidad, sensible (perceptible), figura, forma
-4. relación: cómo está relacionado el objeto con otro, como lo es familiar, espacial, proximidad, dimensión
-5. lugar (ubi): posición en relación con el entorno que lo rodea
-6. tiempo (quando): posición en relación con el momento en el que sucede (ayer, años atrás)
-7. posición (situs): estado de reposo resultante de una acción
-8. posesión (habitus): reposo resultante de ser objeto de una acción (armado, destrozado)
-9. acción: producción de un cambio en otro objeto(? (qué hace el objeto lol)
-10. pasión/afecto: recepción de un cambio de otro objeto (el ser actuado de actuar)
+1. __*sustancia*__: algo interno y propio del ser
+2. __*cantidad*__: discreta o continua
+3. __*cualidad*__: hábito, disposición, habilidad, incapacidad, sensible (perceptible), figura, forma
+4. __*relación*__: cómo está relacionado el objeto con otro, como lo es familiar, espacial, proximidad, dimensión
+5. __*lugar (ubi)*__: posición en relación con el entorno que lo rodea
+6. __*tiempo (quando)*__: posición en relación con el momento en el que sucede (ayer, años atrás)
+7. __*posición (situs)*__: estado de reposo resultante de una acción
+8. __*posesión (habitus)*__: reposo resultante de ser objeto de una acción (armado, destrozado)
+9. __*acción*__: producción de un cambio en otro objeto(? (qué hace el objeto lol)
+10. __*pasión/afecto*__: recepción de un cambio de otro objeto (el ser actuado de actuar)
 
 #### fuentes
 
