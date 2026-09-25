@@ -87,18 +87,22 @@ gracias a estas categorias no puedes pensar ni nombrar nada en el mundo que no e
 
 ### elegir un objeto y analizarlo bajo Las categorías de Aristóteles
 
-objeto elegido = 
+objeto elegido = un llavero de peluche hello kitty
 
-- **sustancia** = 
-- **cantidad=** = 
-- **cualidad** = 
-- **relación** = 
-- **lugar** = 
-- **tiempo** =
-- **posición** =
-- **estado/posesión** =
-- **acción** = 
-- **pasión** = 
+foto del objeto elegido
+
+![peluche de hello kitty](./imagenes/)
+
+- **sustancia** = llavero de peluche de hello kitty/objeto inanimado adorno
+- **cantidad** = objeto individual de aprox. 16 cm de alto y pocos gramos de peso
+- **cualidad** = color rosa, suave, afelpado con la cara blanca de hello kitty con un moño rojo al costado derecho, una pequeña figurita de su mano izquierda y un broche en forma de corazón color rosa
+- **relación** = es más pequeño que el bolso, de mi propiedad y usado como adorno personal
+- **lugar** = enganchado en la correa/asa de mi bolso de uso diario (para la universidad y trabajo).
+- **tiempo** = en el presente (uso diario) 
+- **posición** = colgado de forma vertical sujetado por su broche
+- **estado/posesión** = disfrazado con un traje afelpado de oso y llevando una pequeña figurita pegada en su pata izquierda
+- **acción** = ninguna por ser inanimado/decoración y personalizar mi bolso
+- **pasión** = está siendo transportado, sujetado y rozado por el bolso y las manos
 
 ### links
 
