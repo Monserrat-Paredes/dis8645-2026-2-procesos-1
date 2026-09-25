@@ -37,6 +37,10 @@ sleep_ms(250);
 
 El profe intentó unas 5 veces hacer que el código funcionara y no lo hacía porque quería imprimir "prueba", sin embargo el concepto prueba no lo podía reconocer el pc porque prueba estaba después del int main (), lo cambió y... no funcionó
 
+Luego del break llegó el invitado especial, Rodrigo Toro y empezó su charla
+Dice que es bueno diseñar máquinas y que hay que tener cuidado con la manera en la que dejamos expuestos nuestros diseños, porque siempre habrán usuarios que toquen partes que no deberían.
+Nos muestra sus asombrosas autómatas de manos de cobre y enfatiza en la importancia de comprar rodamientos.
+
 ## encargos
 
 ## lectura
