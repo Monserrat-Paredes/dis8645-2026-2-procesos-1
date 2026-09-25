@@ -41,6 +41,7 @@ Luego del break llegó el invitado especial, Rodrigo Toro y empezó su charla
 Dice que es bueno diseñar máquinas y que hay que tener cuidado con la manera en la que dejamos expuestos nuestros diseños, porque siempre habrán usuarios que toquen partes que no deberían.
 Nos muestra sus asombrosas autómatas de manos de cobre y enfatiza en la importancia de comprar rodamientos.
 
+
 ## encargos
 
 ## lectura
