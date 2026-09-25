@@ -5,9 +5,12 @@
 ## encargos
 
 próximos encargos: 
+
 viernes 25-09: 
+
 seleccionar un objeto y clasificarlo según las categorías del ser de aristóteles 
 martes 29-09:
+
 bajar una red social e investigar que piensa esa red de mi, cuál es mi algoritmo
 (listar 10 categorías que deciden qué y quién eres)
 
