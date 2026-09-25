@@ -6,24 +6,27 @@
 
 próximos encargos: 
 
-viernes 25-09: 
++ viernes 25-09: 
 
 seleccionar un objeto y clasificarlo según las categorías del ser de aristóteles 
-martes 29-09:
+
+
++ Sustancia: Cámara Instax
++ Cantidad: Una cámara, de aproximadamente 300 g.
++ Cualidad: Rosada, pequeña, rectangular y de plástico.
++ Relación: Sirve para tomar fotografías y guardar recuerdos.
++ Lugar: Está sobre mi escritorio o la llevo en mi bolso.
++ Tiempo: La uso cuando quiero tomar fotografías de momentos especiales.
++ Posición: Está apoyada sobre su base cuando no la estoy utilizando.
++ Posesión: Tiene una correa, un compartimento para las pilas y un espacio para los cartuchos de fotografías.
++ Acción: Toma e imprime fotografías.
++ Pasión:
+
++ martes 29-09:
 
 bajar una red social e investigar que piensa esa red de mi, cuál es mi algoritmo
 (listar 10 categorías que deciden qué y quién eres)
 
-1. sustancia: 
-2. cantidad: 
-3. cualidad: 
-4. relación: 
-5. lugar: 
-6. tiempo:
-7. posición: 
-8. posesión
-9. acción
-10. pasión: 
 
 ## lectura
 
