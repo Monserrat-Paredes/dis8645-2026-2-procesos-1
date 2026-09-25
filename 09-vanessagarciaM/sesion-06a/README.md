@@ -4,9 +4,6 @@
 
 apuntes que me compartieron mis amigas Isi y Narely, ya que yo no pude asistir a la clase :(
 
-# sesion-06a
-
-# apuntes sesión
 ## variable
 - conciencia del contenedor, importancia
 - definir contenedor que ocupa en la memoria del computador
