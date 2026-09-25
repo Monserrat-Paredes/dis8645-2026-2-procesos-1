@@ -4,6 +4,24 @@
 
 ## encargos
 
+próximos encargos: 
+viernes 25-09: 
+seleccionar un objeto y clasificarlo según las categorías del ser de aristóteles 
+martes 29-09:
+bajar una red social e investigar que piensa esa red de mi, cuál es mi algoritmo
+(listar 10 categorías que deciden qué y quién eres)
+
+1. sustancia: 
+2. cantidad: 
+3. cualidad: 
+4. relación: 
+5. lugar: 
+6. tiempo:
+7. posición: 
+8. posesión
+9. acción
+10. pasión: 
+
 ## lectura
 
 Todavía voy en la parte donde se habla del proletariado y de cómo este debería convertirse en el actor de la transformación de la sociedad. Una de las cosas que más se repite es que no basta con tener una teoría o saber cómo funciona la sociedad, sino que ese conocimiento tiene que convertirse en acción. 
