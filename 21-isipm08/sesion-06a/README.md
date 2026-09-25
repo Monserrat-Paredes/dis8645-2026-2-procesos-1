@@ -106,10 +106,58 @@ seleccionar un objeto y clasificarlo según las categorías del ser de aristóte
 9. acción: efecto o cambio que ejerce sobre otro
 10. pasión: recibir o sufrir una acción de algo externo
 
+### objeto
+1. sustancia: botella buffer flask
+2. cantidad: 830ml
+3. cualidad: térmica, rosada, con mango para llevarla en la mano 
+4. relación: contenedor de agua fría (generalmente)
+5. lugar: dentro de mi mochila
+6. tiempo: ahora, hasta que quizá se rompa y deje de cumplir su función
+7. posición: postura fija, depende de mi para su movimiento
+8. posesión: líquido
+9. acción: mantener líquido frío, mejorar mi hábito de tomar agua
+10. pasión: ser llenado y transportada diariamente
 
+<https://www.sodimac.cl/sodimac-cl/articulo/146181110/vaso-tumbler-termico-botella-agua-buffer-inox-830-ml-rosa-claro/146181111>
 
-https://en.wikipedia.org/wiki/Categories_(Aristotle)
+<https://en.wikipedia.org/wiki/Categories_(Aristotle)>
 
-https://stgb.substack.com/p/aristotles-ten-categories-of-being
+<https://stgb.substack.com/p/aristotles-ten-categories-of-being>
 
 ## lectura
+
+### Mindstorms: Children, Computers and Powerful Ideas - Seymour Papert
+- empecé un nuevo capítulo llamado "Turtle Geometry: A Mathematics Made for Learning", igual es largo, entonces solo empecé con un par de páginas y lo que quede del resto del capítulo lo retomaré en la siguiente lectura
+
+*apuntes lectura*
+- geometría de totuga -- estilo computacional de geometría
+  1. dinámica
+  2. cabezal
+  3. primer representante de las matemáticas para un niño, los cuales se pueden representar o identificarse con esta
+  4. capaces de aceptar comandos en un lenguaje "turtle talk"
+- establece la relación corporal de los niños mediante este objto lúdico "geomtería corporal"
+- la finalidad de este es desarrollar ideas sobre la forma en que se mueven en el espacio
+- conexión entre la actividad personal -- creación conocimiento formal
+  
+### turtle talk
+- adelante: se moverá hacia adelante según la posición en que se encuentre (adelante 1 -- movimiento pequeño/ adelante 100 -- movimiento más grande)
+- atrás
+- izquierda -- cambie de rumbo mientras se mantiene en el mismo lugar
+- derecha -- cambie de rumbo mientras se mantiene en el mismo lugar
+- forward 
+- Euclides -- estilo axiomático, "punto" entidad que tiene una posición pero no tiene otras propiedades
+- Descartes -- analítico, estilo algebraico 
+
+**comandos cuadrado**
+```
+adelante 100
+derecho 90
+adelante 100
+derecho 90
+adelante 100
+derecho 90
+adelante 100
+derecho 90
+```
+
+
