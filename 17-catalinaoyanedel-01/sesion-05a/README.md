@@ -119,5 +119,16 @@ recordatorio de anotar las horas que uno se dedica a trabajar en algo !
 - Pico SDK Examples: ejemplos más crudos
   
 ## encargos
+a partir de las definiciones que leí anteriormente, elegí como mi objeto mi termo con tecito que suelo andar trayendo, así que estas son sus categoría:
+
+- sustancia: el termo
+- cantidad: 800ml
+- cualidad: blanco, metálico, térmico
+- relación: contenedor de mi té (respecto a mi)
+- lugar: en mi escritorio
+- tiempo: ahora mismo / jueves 24 de sept. 11:45pm
+- posición: vertical
+- acción: mantener un líquido caliente o frío el mayor tiempo posible
+- pasión: ser llenado y transportado
 
 ## lectura
