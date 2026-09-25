@@ -19,7 +19,7 @@ interfaz
 
 lenguaje 
 
-**¿Qué es un computador? **
+**¿qué es un computador? **
 + una caja que tiene datos 
 + almacena (cuestionable)
 + datos -> número, se pueden medir, se pueden separar…
