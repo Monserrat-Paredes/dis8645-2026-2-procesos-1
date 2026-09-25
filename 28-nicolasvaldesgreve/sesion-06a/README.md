@@ -57,7 +57,7 @@ anotar 3 atributos y 3 métodos de ti (de mi(? hola)
 
 ## encargo
 
-seleccionar un objeto y clasificarlo según las categorías del ser de Aristóteles:
+seleccionar un objeto y clasificarlo según las categorías del ser de Aristóteles, las cuales son las siguientes:
 
 1. __*sustancia*__: algo interno y propio del ser
 2. __*cantidad*__: discreta o continua
@@ -69,6 +69,21 @@ seleccionar un objeto y clasificarlo según las categorías del ser de Aristóte
 8. __*posesión (habitus)*__: reposo resultante de ser objeto de una acción (armado, destrozado)
 9. __*acción*__: producción de un cambio en otro objeto(? (qué hace el objeto lol)
 10. __*pasión/afecto*__: recepción de un cambio de otro objeto (el ser actuado de actuar)
+
+APLIQUEMOS ESTO A UN OBJETO KKKKKKKKKKKKKKKKKKKKKKKK (no entiendo si debo decir cuál es o si deben adivinar al leer las categorías(? asi que lo haré como la segunda opción para los jijis jajas..... soy noob, ojalá nadie aparte de les profes esté leyendo esto HOLA ayuda)
+
+- sustancia -> relleno esponjoso(?
+- cantidad -> 27 cm de altura
+- cualidad -> blanco y negro
+- relación -> le pertenece a nicolasvaldesgreve (hola)
+- lugar -> dentro de un departamento de La Florida, encima de una cama de una plaza
+- tiempo -> fue regalado a nicolasvaldesgreve hace 3 años atrás (2023)
+- posición -> acostado
+- posesión -> tiene un pequeño agujero en su brazo izquierdo, daño causado por Mailo (hermano perruno de nicolasvaldesgreve hola)
+- acción -> genera ternura en nicolasvaldesgreve y agresividad en Mailo
+- pasión/afecto -> es atacado por Mailo al menos una vez al mes
+
+> LATE WARNING LOL no sé si está bien ya que me costó un poco entender las categorías (en las fuentes que puse hay cosas que no son lo mismo?? o creo que yo no entendí LOLOLOLOL y eso me confundió.. creo que juntarme mucho con el Mailo me volvió un poco menos inteligente)
 
 #### fuentes
 
