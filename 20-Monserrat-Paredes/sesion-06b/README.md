@@ -47,7 +47,7 @@ Las 10 categorías del ser de aristóteles:
 | **10. Pasión**           | ¿Qué recibe / qué le hacen?        | Recibo **recomendaciones y publicidad** relacionada con belleza, cabello, uñas, moda, tecnología y telecomunicaciones. También he recibido publicidad de marcas como Shein y productos tecnológicos como iPhone. |
 
 
-
+Aunque tengo varias opciones de personalización apagadas, igual me salen anuncios de belleza, cuidado para el pelo, uñas, telefonía y marcas como Shein. Entonces, parece que lo que me muestran no depende solo de lo que puedo configurar, sino también de lo que hice antes, como visitar productos o en lo que he hecho clic.
 
 ## lectura
 
