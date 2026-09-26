@@ -1,7 +1,3 @@
 # sesion-05a
 
-## apuntes sesión
-
-## encargos
-
-## lectura
+Entrega proyecto 1
