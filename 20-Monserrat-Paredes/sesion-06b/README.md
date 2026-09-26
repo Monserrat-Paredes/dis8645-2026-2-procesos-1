@@ -17,21 +17,21 @@ martes 29-09:
 
 Las 10 categorías del ser de aristóteles:
 
-sustancia → ¿Qué es?
-cantidad → ¿Cuánto? ¿Cuántos?
-calidad o cualidad → ¿Cómo es? ¿Qué características tiene?
-relación → ¿Con qué se relaciona?
-lugar → ¿Dónde está?
-tiempo → ¿Cuándo?
-posición → ¿Cómo está dispuesto o colocado?
-estado → ¿Qué tiene puesto o de qué está provisto?
-acción → ¿Qué hace?
-pasión → ¿Qué recibe o qué le hacen?
-Es como mirar cualquier cosa y desmenuzarla en sus maneras de aparecer en el mundo.
-
+1. sustancia → ¿Qué es?
+2. cantidad → ¿Cuánto? ¿Cuántos?
+3. calidad o cualidad → ¿Cómo es? ¿Qué características tiene?
+4. relación → ¿Con qué se relaciona?
+5. lugar → ¿Dónde está?
+6. tiempo → ¿Cuándo?
+7. posición → ¿Cómo está dispuesto o colocado?
+8. estado → ¿Qué tiene puesto o de qué está provisto?
+9. acción → ¿Qué hace?
+10. pasión → ¿Qué recibe o qué le hacen?
+    
 ---
 
-## algoritmo de instagram que es real
+## Mi perfil algorítmico de Instagram 
+
 sustancia → 
 cantidad → 
 calidad o cualidad → 
