@@ -41,6 +41,15 @@ escribir 3 atributos y 3 métodos sobre nosotros
 - analizar el objeto bajo las categorías de Aristóteles
 
 
+## plan z: "hagamos un asado"
+
+- demasiado antiguo por la calidad del video xd
+- en resumen trata de 2 amigos dos que se topan en la calle y se les ocurre hacer un asado ahí mismo (lit en plena calle), le echan bencina al fuego para apurarse y termina en 3 segundos
+- la verdad no le encontré gracia
+- humor absurdo
+
+![captura de pantalla de  cortometraje hagamos un asado, altiro](./imagenes/captura-de-pantalla-cortometraje-hagamos-un-asado.png)
+
 ## investigar que son las categorías de Aristóteles
 
 ### ¿Quién es Aristóteles?
@@ -85,21 +94,6 @@ para Aristóteles **Las categorías** son los diez modos fundamentales de ser o 
 
 gracias a estas categorias no puedes pensar ni nombrar nada en el mundo que no encaje en una de estas 10 casillas
 
-### elegir un objeto y analizarlo bajo Las categorías de Aristóteles
-
-objeto elegido = 
-
-- **sustancia** = 
-- **cantidad=** = 
-- **cualidad** = 
-- **relación** = 
-- **lugar** = 
-- **tiempo** =
-- **posición** =
-- **estado/posesión** =
-- **acción** = 
-- **pasión** = 
-
 ### links
 
 link de donde recopile esta información
@@ -108,6 +102,25 @@ link de donde recopile esta información
 - [Wikipedia Categorías (Aristóteles)](https://en.wikipedia.org/wiki/Categories_(Aristotle))
 - [Diccionario de la lengua Española](https://dle.rae.es/peripat%C3%A9tico)
 
+
+## elegir un objeto y analizarlo bajo Las categorías de Aristóteles
+
+objeto elegido = un llavero de peluche hello kitty
+
+foto del objeto elegido
+
+![peluche de hello kitty](./imagenes/llavero-hello-kitty.png)
+
+- **sustancia** = llavero de peluche de hello kitty/objeto inanimado adorno
+- **cantidad** = objeto individual de aprox. 16 cm de alto y pocos gramos de peso
+- **cualidad** = color rosa, suave, afelpado con la cara blanca de hello kitty con un moño rojo al costado derecho, una pequeña figurita de su mano izquierda y un broche en forma de corazón color rosa
+- **relación** = es más pequeño que el bolso, de mi propiedad y usado como adorno personal
+- **lugar** = enganchado en la correa/asa de mi bolso de uso diario (para la universidad y trabajo).
+- **tiempo** = en el presente (uso diario) 
+- **posición** = colgado de forma vertical sujetado por su broche
+- **estado/posesión** = disfrazado con un traje afelpado de oso y llevando una pequeña figurita pegada en su pata izquierda
+- **acción** = ninguna por ser inanimado/decoración y personalizar mi bolso
+- **pasión** = está siendo transportado, sujetado y rozado por el bolso y las manos
 
 
 ## lectura

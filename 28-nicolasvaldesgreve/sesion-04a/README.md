@@ -5,6 +5,7 @@
 > hexorcismo. queremos menos bombas.
 
 _akai_ -> rojo en japonés
+
 _mpc_ -> music production center
 
 ## trabajo en proyecto 01
