@@ -96,6 +96,26 @@ viernes 25-09:
 
 - seleccionar un objeto y clasificarlo según las categorías del ser de aristóteles 
 
+Las categorías son como cajones para meter distintas descripciones de cualquier cosa que existe o que podemos pensar. 
+
+Las 10 categorías del ser de aristóteles:
+
+1. sustancia que significa la cosa misma, como un perro o un árbol
+2. cantidad, que responde cuánta cosa hay
+3. calidad, que dice cómo es (si es rojo, duro, suave)
+4. relación, habla de en comparación con qué, como más grande o más lento
+5. lugar (dónde está)
+6. tiempo (cuándo es)
+7. posición (si está sentado o de pie)
+8. estado (si usa zapatos o ropa)
+9. acción (si está cortando o corriendo)
+10. pasión (si la cosa recibe una acción, como ser cortado)
+    
+Es como mirar cualquier cosa y desmenuzarla en sus maneras de aparecer en el mundo.
+
+Informacion sacada de → <https://filosofia.net/piezas/categorias.htm>
+
+
 
 martes 29-09:
 
