@@ -156,3 +156,50 @@ II. G-E-S-T-A-L-T
 III. I-N-T-E-R-F-A-C-E
 
 El autor plantea las bases de lo que significa enseñar diseño gráfico hoy. Introduce la idea de que el diseño no se trata de "estilo" o decoración, sino de sistemas, reglas y tecnología aplicadas a la comunicación.
+
+Mi Análisis :)
+
+El diseño como regla compartida, no como firma 
+
+Munari y Leonardo = código abierto antes del código abierto
+
+Munari toma el esquema del árbol de Leonardo, lo redibuja y lo publica sin disimular de dónde viene. Reinfurt lo celebra: lo importante no es inventar algo nuevo sino entender la regla y presentarla bien. Es la lógica de copiar, adaptar y compartir un sistema.
+
+
+
+Una regla que cualquiera puede ejecutar
+
+“Cada rama es más delgada que la anterior” es una instrucción tan simple que no necesita al autor para repetirse. El diseño deja de ser firma personal y pasa a ser algo que otros pueden usar y modificar, como una función en programación.
+
+
+Cooper aplica lo mismo con las máquinas
+
+Sus afiches se parecen entre sí no por un estilo de autor, sino porque comparten un taller y un método de impresión. Los diseñadores cambian (Casey, Peine y otros) y la identidad se queda en el sistema. Reinfurt lo descubre al corregirse a sí mismo sobre quién diseñó qué.
+
+
+Ciclos cortos de prueba
+
+Cooper buscaba acortar la distancia entre pensar y hacer, algo muy parecido al prototipado actual: probar, ver el resultado rápido, ajustar. Para ella, producir y diseñar eran el mismo acto.
+
+
+Lo frágil del archivo digital
+
+La escena del sótano del Media Lab, buscando un reproductor de LaserDisc, muestra el lado oscuro: el trabajo digital depende de hardware que muere. El afiche impreso sobrevivió en un clóset, el disco casi no se puede abrir. 
+
+
+Idea para conectar con otros bloques
+
+desde Dürer (la letra como fórmula) hasta Munari (el árbol como regla), Reinfurt va armando una línea donde diseñar es definir procedimientos más que dibujar objetos.
+
+
+---
+
+
+Cita 4 (p. 58)
+
+INGLES: “Muriel Cooper always sought more responsive systems of design and production, emphasizing quicker feedback loops between thinking and making, often blurring the distinction between the two.”
+
+ESPAÑOL: “Muriel Cooper siempre buscó sistemas de diseño y producción más receptivos, enfatizando ciclos de retroalimentación más rápidos entre pensar y hacer, y borrando a menudo la distinción entre ambos.”
+
+
+Análisis: Cooper no separa la idea de la ejecución: diseña mientras produce y produce mientras piensa. Es lo más parecido al prototipado actual, donde probás, ves el resultado al instante y ajustás. Para ella, mejorar el diseño era acortar el tiempo entre una decisión y su resultado visible.
